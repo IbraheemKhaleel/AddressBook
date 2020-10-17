@@ -4,8 +4,6 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-import addressBook.AddressBookRegister;
-
 public class AddressBookUC4 
 {
 	public static void main(String[] args) 
